@@ -1,4 +1,11 @@
 # "WeatherPy_analysis" Week 6 Challenge
+### Tools Used
+* Jupyter Notebooks
+* Pandas Dataframes
+* Numpy NaN replacement
+* Google Maps API
+* Weather API
+
 ## Purpose
 The purpose of this analysis is to create a vacation itinerary for users from specified weather criteria and identified potential travel destinations. By utilizing Google API's, we are able to provide the user with recommended ideal hotels within the chosen weather qualifications.
 
